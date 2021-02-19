@@ -5,7 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
+<<<<<<< HEAD
   <version>2.4.6</version>
+=======
+  <version>2.4.5</version>
+>>>>>>> 6e65acc5b1a1813e1b187280d2f5803e3405af60
 
   <parent>
     <groupId>org.springframework.boot</groupId>
